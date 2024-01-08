@@ -44,4 +44,8 @@ func main() {
 	for chave, valor := range usuario {
 		fmt.Println(chave, valor)
 	}
+
+	// for {
+	// 	fmt.Println("Loop infinito")
+	// }
 }
