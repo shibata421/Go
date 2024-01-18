@@ -1,7 +1,7 @@
 package banco
 
 import (
-	"crud/model"
+	
 	"database/sql"
 	"errors"
 	"fmt"
